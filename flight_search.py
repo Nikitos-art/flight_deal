@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 load_dotenv('.env')
 tequila_api_key = os.getenv('TEQUILA_API_KEY')
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
-TEQUILA_API_KEY = "mbW51FtqDc2w4bXPn7aRfQtuU9pudilX"
 
 
 class FlightSearch:
