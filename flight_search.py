@@ -1,6 +1,6 @@
 import requests
 import os
-from flight_deal.flight_data import FlightData
+from flight_data import FlightData
 from dotenv import load_dotenv
 
 

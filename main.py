@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
-from flight_deal.flight_search import FlightSearch
-from flight_deal.data_manager import DataManager
+from flight_search import FlightSearch
+from data_manager import DataManager
 from notification_manager import NotificationManager
 
 
